@@ -2,7 +2,7 @@
 <%@page import="model.Usuario" %>
 <%@page import="java.util.ArrayList" %>
 <% 
-//Estas variables se deben de cambiar en el jsp de cada pagina 
+//Estas variables se deben de cambiar en el jsp de cada pagina //commit_prueba
 //En teoria solo con estas variables se puede definir a qué servlet se le hará la petición
 String apiLink = "AdminServlet"; //Aqui se debe de poner la ruta de la servlet que agrega 
 String pageElementName = "administrador"; //Aqui se debe de poner el nombre del elemento que se está manejando en la pagina 
